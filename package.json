@@ -1,0 +1,15 @@
+{
+  "name": "lista_dois",
+  "version": "1.0.0",
+  "description": "Resolução da lista de exercicios 02 do curso de Dev Full Stack - +praTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Paiva",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
